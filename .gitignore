@@ -1,0 +1,10 @@
+# Logs
+*.log
+
+# Environment files
+.env
+
+# Editors
+.DS_Store
+.vscode/
+.idea/
